@@ -65,5 +65,3 @@ I enjoy building clean, user-friendly web applications and exploring how data an
 
 
 ---
-
-⭐ *“Consistency, discipline, and curiosity are the keys to growth in tech.”*
